@@ -32,7 +32,7 @@ Vaga 10: Livre
 
 ---
 
-##📘 Lógica do programa
+## 📘 Lógica do programa
 
 As vagas são representadas por uma lista com 10 posições:
 
@@ -47,7 +47,7 @@ O programa usa um loop while para exibir o menu até o usuário escolher encerra
 
 ---
 
-##🧠 Conceitos aplicados
+## 🧠 Conceitos aplicados
 
 Estruturas de repetição (while)
 
