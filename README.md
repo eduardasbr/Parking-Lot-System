@@ -59,7 +59,7 @@ Manipulação de entrada do usuário (input)
 
 ---
 
-##🏁 Objetivo educacional
+## 🏁 Objetivo educacional
 
 Projeto desenvolvido para praticar raciocínio computacional e pensamento lógico, como parte da disciplina
 Computational Thinking Using Python (CP3).
